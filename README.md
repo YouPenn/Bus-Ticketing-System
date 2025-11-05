@@ -2,24 +2,24 @@
 
 Client site Login:
 
-Email: youpenn2003@gmail.com
-Password: abcd1234
-Security Answer: Meow
+Email: youpenn2003@gmail.com | 
+Password: abcd1234 | 
+Security Answer: Meow |
 
-Email: sooyk-jm21@student.tarc.edu.my
-Password: 1234abcd
-Security Answer: SJKCJementah
+Email: sooyk-jm21@student.tarc.edu.my |
+Password: 1234abcd |
+Security Answer: SJKCJementah |
 
 ====================
 
 Admin site Login:
 
-ID: A001 
-Password: A123456
+ID: A001 |
+Password: A123456 |
 
 
-ID: A002 
-Password: B123456
+ID: A002 |
+Password: B123456 |
 
 
 ====================
