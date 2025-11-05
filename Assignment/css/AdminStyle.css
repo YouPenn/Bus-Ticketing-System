@@ -1,0 +1,185 @@
+﻿body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#form1 {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #3498db;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px 30px; /* Increased padding for larger buttons */
+    border: none;
+    border-radius: 24px; /* Increased border-radius for rounded corners */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 18px;
+}
+
+    button:hover {
+        background-color: #2980b9;
+    }
+
+/* Custom styles for Back button */
+#btnBack {
+    background-color: #e74c3c; /* Red */
+    color: #fff;
+    padding: 20px 30px; /* Increased padding for larger buttons */
+    border: none;
+    border-radius: 24px;
+    font-size: 18px;
+}
+
+    #btnBack:hover {
+        background-color: #c0392b; /* Darker Red */
+        padding: 20px 30px; /* Increased padding for larger buttons */
+        border: none;
+        border-radius: 24px;
+        font-size: 18px;
+    }
+
+/* Custom styles for Save button */
+#AddSave {
+    background-color: #27ae60; /* Green */
+    color: #fff;
+    padding: 20px 30px; /* Increased padding for larger buttons */
+    border: none;
+    border-radius: 24px;
+    font-size: 18px;
+}
+
+    #AddSave:hover {
+        background-color: #219a52; /* Darker Green */
+        padding: 20px 30px; /* Increased padding for larger buttons */
+        border: none;
+        border-radius: 24px;
+        font-size: 18px;
+    }
+
+#btnHash {
+    background-color: #27ae60; /* Green */
+    color: #fff;
+    padding: 20px 30px; /* Increased padding for larger buttons */
+    border: none;
+    border-radius: 24px;
+    font-size: 18px;
+}
+
+    #btnHash:hover {
+        background-color: #219a52; /* Darker Green */
+        padding: 20px 30px; /* Increased padding for larger buttons */
+        border: none;
+        border-radius: 24px;
+        font-size: 18px;
+    }
+
+#btnGoTicket {
+    background-color: #27ae60; /* Green */
+    color: #fff;
+    padding: 20px 30px; /* Increased padding for larger buttons */
+    border: none;
+    border-radius: 24px;
+    font-size: 18px;
+}
+
+    #btnGoTicket:hover {
+        background-color: #219a52; /* Darker Green */
+        padding: 20px 30px; /* Increased padding for larger buttons */
+        border: none;
+        border-radius: 24px;
+        font-size: 18px;
+    }
+
+table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none; /* Remove underline for header text */
+}
+
+.label-blue {
+    color: #3498db; /* Set label color to blue */
+}
+
+.editButton {
+    /* Add your custom styles for the edit button here */
+    background-color: #4CAF50; /* Green color */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 1px 1px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+
+.updateButton {
+    /* Add your custom styles for the edit button here */
+    background-color: #4CAF50; /* Green color */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 1px 1px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+
+.deleteButton {
+    /* Add your styles for the Delete button here */
+    background-color: #f44336; /* Red color */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 3px;
+}
