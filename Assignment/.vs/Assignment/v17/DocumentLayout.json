@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TARUMT\\ASP.NET\\ASP.Net\\ASP.Net Assignment\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD79661-B097-4F49-813F-F7D7D99ACE04}|Assignment.csproj|d:\\tarumt\\asp.net\\asp.net\\asp.net assignment\\assignment\\adminbus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CBD79661-B097-4F49-813F-F7D7D99ACE04}|Assignment.csproj|solutionrelative:adminbus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__TARUMT_ASP.NET_ASP.NET_ASP.NET_ASSIGNMENT_ASSIGNMENT_APP_DATA_BUSDB.MDF/True/SqlTable/dbo.schedule.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminBus.aspx",
+              "DocumentMoniker": "D:\\TARUMT\\ASP.NET\\ASP.Net\\ASP.Net Assignment\\Assignment\\AdminBus.aspx",
+              "RelativeDocumentMoniker": "AdminBus.aspx",
+              "ToolTip": "D:\\TARUMT\\ASP.NET\\ASP.Net\\ASP.Net Assignment\\Assignment\\AdminBus.aspx",
+              "RelativeToolTip": "AdminBus.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T06:57:44.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.schedule.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__TARUMT_ASP.NET_ASP.NET_ASP.NET_ASSIGNMENT_ASSIGNMENT_APP_DATA_BUSDB.MDF/True/SqlTable/dbo.schedule.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__TARUMT_ASP.NET_ASP.NET_ASP.NET_ASSIGNMENT_ASSIGNMENT_APP_DATA_BUSDB.MDF/True/SqlTable/dbo.schedule.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-12T20:31:50.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
